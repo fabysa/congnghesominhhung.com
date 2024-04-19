@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de7d494f.css",
+    "main.js": "/static/js/main.03d7a162.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/samsung.png": "/static/media/samsung.05a505e9c850d3dedb07.png",
+    "static/media/xiaomi.jpeg": "/static/media/xiaomi.801c4af9767df35ee80c.jpeg",
+    "static/media/apple.jpg": "/static/media/apple.cc0513a07e3afb29ba53.jpg",
+    "static/media/oppo.jpg": "/static/media/oppo.202b97acf6fcced0bcb8.jpg",
+    "static/media/vivo.jpg": "/static/media/vivo.2bd90bb9ee46eb0438af.jpg",
+    "static/media/huawei.jpg": "/static/media/huawei.0b39272ef791d6042377.jpg",
+    "static/media/realme.jpg": "/static/media/realme.a7d7475ac4e780782264.jpg",
+    "static/media/giohang2.jpg": "/static/media/giohang2.d2e2b9d69041683b3596.jpg",
+    "static/media/Facebook_Logo.png": "/static/media/Facebook_Logo.c278992ab0aa7d7328f3.png",
+    "static/media/logoInternet.jpg": "/static/media/logoInternet.68bb111a624231317db2.jpg",
+    "static/media/tuvanvien.jpg": "/static/media/tuvanvien.26c45aa723f89d51ea4e.jpg",
+    "static/media/zaloLogo.png": "/static/media/zaloLogo.d2a57fc61d7b674a1385.png",
+    "index.html": "/index.html",
+    "main.de7d494f.css.map": "/static/css/main.de7d494f.css.map",
+    "main.03d7a162.js.map": "/static/js/main.03d7a162.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7d494f.css",
+    "static/js/main.03d7a162.js"
+  ]
+}
